@@ -1,4 +1,4 @@
 - 👋 Yo, my name is Aleksei
-- 👀 Python Backend Developer
+- 👀 python backend developer / python data engineer
 - 🌱 Checkout my [Leetcode profile](https://leetcode.com/u/trytryhard/)!
 - 📫 How to reach me: [@Lyosha42](https://telegram.me/Lyosha42) - telegram; [LinkedIn profile](https://www.linkedin.com/in/aleksei-titov-/)
