@@ -1,5 +1,5 @@
 - 👋 Yo, my name is Aleksei
-- 👀 Looking for AQA Python \ Manual QA
+- 👀 Looking for AQA Python
 - 📫 How to reach me: [@Logicroute](https://telegram.me/Logicroute) - telegram; [LinkedIn profile](https://www.linkedin.com/in/aleksei-titov-/)
 
 ### leetcode progress
